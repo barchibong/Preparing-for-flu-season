@@ -18,7 +18,7 @@ Tableau Link:https://public.tableau.com/app/profile/blessing.archibong
 
 To ensure that hospitals and clinics are equipped to deliver optimal care to the heightened influx of patients during the influenza season, they frequently engage the services of medical staffing agencies. These specialized agencies provide temporary healthcare personnel to meet the surging demand for qualified medical professionals.
 
-In my capacity as an analyst, my core responsibilities entailed translating intricate business requirements and inquiries into well-defined analytical questions. Subsequently, I meticulously sourced and curated data resources to address these inquiries comprehensively. Following the data collection phase, I embarked on a rigorous analysis, extracting valuable insights, drawing substantiated conclusions, and formulating actionable recommendations. These findings were communicated to stakeholders through a structured and informative video presentation.
+As an analyst, I focused on translating complex business needs and queries into clear and precise analytical questions. I employed various tools and skills, such as Excel for tasks like interpreting business needs, data cleaning, integration, and transformation, along with statistical hypothesis testing, visual analysis, forecasting, and Tableau for storytelling, and presented results effectively to diverse audiences.
 
 Notable datasets employed in my analytical work included the following:
 
