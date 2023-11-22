@@ -6,7 +6,9 @@ Tableau Link:https://public.tableau.com/app/profile/blessing.archibong
 
 ![Death rate](https://github.com/barchibong/Preparing-for-flu-season/assets/144898284/e6208159-a7ce-4acd-8942-c04f68d8cbdf)
 
-![Story 1](https://github.com/barchibong/Preparing-for-flu-season/assets/144898284/819290e1-71b0-481e-9ac2-a6ef6e3adab2)
+![Forecast death rate](https://github.com/barchibong/Preparing-for-flu-season/assets/144898284/51ab3d85-c8db-48a4-b79d-0c2f27425e5b)
+
+![Story 1 (1)](https://github.com/barchibong/Preparing-for-flu-season/assets/144898284/89c09bc0-75e5-4a19-8943-49afbbaf5403)
 
 ![Sheet 1](https://github.com/barchibong/Preparing-for-flu-season/assets/144898284/e8953abc-367d-4388-8795-969bc88958dc)
 
